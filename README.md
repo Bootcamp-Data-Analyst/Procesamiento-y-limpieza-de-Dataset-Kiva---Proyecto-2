@@ -50,9 +50,12 @@ A través de rigurosos pasos de preprocesamiento y análisis, se obtuvieron las 
 ---
 
 ## 💡 Conclusión General
-
-Este proyecto proporcionó una comprensión profunda de la dinámica de los préstamos de Kiva. Se demostró la importancia de una **limpieza de datos rigurosa** y un análisis exploratorio detallado para descubrir información valiosa. Los resultados permiten identificar las categorías de préstamos más comunes, así como los países y sectores con mayor actividad crediticia.
-
-Los *insights* obtenidos de este análisis pueden ser utilizados por Kiva o investigadores para tomar **decisiones informadas** sobre la asignación de recursos y para futuras investigaciones sobre el impacto de los microcréditos.
+Identificacion de los paises que reciben mas Dinero (Total Amount)
+Filipinas
+Kenia / Uganda
+Perú / Ecuador / Colombia
+Indonesia / India
+Estos son los países que, o bien tienen un número muy limitado de socios, o su actividad en la plataforma es esporádica. En el conjunto de datos, es común encontrar países con muy pocos préstamos (incluso a veces cero, dependiendo de la muestra)
+aparecen con actividad baja incluyen naciones como Guam, Vanuatu, Panama, North Korea, Puerto Rico
 
 El conjunto de datos limpio y preprocesado se ha guardado como **`df_clean.csv`** para facilitar análisis posteriores.
